@@ -1,6 +1,7 @@
 #include "Config.h"
 #include "Debug.h"
 #include "Patterns.h"
+#include <unistd.h>
 #include <stdlib.h>
 #include <iostream>
 #include <sstream>
